@@ -362,7 +362,7 @@ footer {
     text-transform: uppercase;
   }
   .nav-cta:hover:after{
-    width: 40%;
+    width: 0;
   }
   .hiddennav{
     display: none;
